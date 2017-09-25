@@ -1,0 +1,9 @@
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\bin\Debug\netcoreapp1.0\AdiddaClub.WebApi.deps.json
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\bin\Debug\netcoreapp1.0\AdiddaClub.WebApi.runtimeconfig.json
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\bin\Debug\netcoreapp1.0\AdiddaClub.WebApi.runtimeconfig.dev.json
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\bin\Debug\netcoreapp1.0\AdiddaClub.WebApi.dll
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\obj\Debug\netcoreapp1.0\AdiddaClub.WebApi.csprojResolveAssemblyReference.cache
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\obj\Debug\netcoreapp1.0\AdiddaClub.WebApi.AssemblyInfo.cs
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\bin\Debug\netcoreapp1.0\AdiddaClub.WebApi.pdb
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\obj\Debug\netcoreapp1.0\AdiddaClub.WebApi.dll
+C:\Rag\Adidda\AdiddaSports\AdiddaClub.WebApi\src\AdiddaClub.WebApi\obj\Debug\netcoreapp1.0\AdiddaClub.WebApi.pdb
